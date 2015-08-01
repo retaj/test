@@ -16,6 +16,7 @@
 hello <- function() {
   print("Hello, world!")
   print("watwat")
+  print("indabat")
 }
 
 trtmrt <- function(trt, mrt) {
